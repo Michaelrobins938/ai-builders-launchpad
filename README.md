@@ -1,5 +1,7 @@
 # Book 1 – The AI Builder's Launchpad
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Michaelrobins938/ai-builders-launchpad/blob/main/notebooks/book-01-bi-engine.ipynb)
+
 From first prompt to first billable pipeline. This repo contains the reference implementation for **Book 1: The AI Builder's Launchpad** in the AI/LLM Mastery Program.
 
 ## What this repo includes
