@@ -2,5 +2,6 @@
 __pycache__/
 *.pyc
 .env
-reports/
+reports/*.md
+!reports/.gitkeep
 .ipynb_checkpoints/
